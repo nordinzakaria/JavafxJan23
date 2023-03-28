@@ -3,7 +3,7 @@ package com.example.javafxdemo;
 public class Leader {
     private String name;
 
-    public Leader(String name) {
+    private Leader(String name) {
         this.name = name;
     }
 
